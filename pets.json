@@ -140,6 +140,16 @@
       "kokoroVoiceID": "am_liam",
       "preferredSystemVoiceNames": ["Eddy", "Daniel"],
       "license": "Proprietary"
+    },
+    {
+      "id": "crabby",
+      "name": "Crabby",
+      "version": "1.0.0",
+      "filename": "crabby-spritesheet.webp",
+      "summonGreeting": "Crabby is listening…",
+      "kokoroVoiceID": "bf_emma",
+      "preferredSystemVoiceNames": ["Samantha", "Ava"],
+      "license": "Proprietary"
     }
   ]
 }
