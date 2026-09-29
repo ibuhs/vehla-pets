@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "publisher": {
+    "id": "com.vehla.publisher",
+    "name": "Vehla",
+    "keyID": "release-2026-07"
+  },
+  "pets": [
+    {
+      "id": "pocket-chihuahua",
+      "name": "ChiChi",
+      "version": "1.0.0",
+      "filename": "pocket-chihuahua-spritesheet.webp",
+      "summonGreeting": "ChiChi is listening…",
+      "kokoroVoiceID": "af_heart",
+      "preferredSystemVoiceNames": [
+        "Ava",
+        "Samantha"
+      ],
+      "license": "Proprietary",
+      "atlasURL": "https://github.com/ibuhs/vehla-pets/releases/download/pets-1.0.0/pocket-chihuahua-spritesheet.webp",
+      "sha256": "151916198085cd191729bc6d72f6c5a7828624e6a44c672fc8dea78752444fbb",
+      "byteSize": 1694470,
+      "width": 1536,
+      "height": 2288
+    },
+    {
+      "id": "command-collie",
+      "name": "Scout",
+      "version": "1.0.0",
+      "filename": "command-collie-spritesheet.webp",
+      "summonGreeting": "Scout is ready…",
+      "kokoroVoiceID": "am_liam",
+      "preferredSystemVoiceNames": [
+        "Daniel",
+        "Eddy"
+      ],
+      "license": "Proprietary",
+      "atlasURL": "https://github.com/ibuhs/vehla-pets/releases/download/pets-1.0.0/command-collie-spritesheet.webp",
+      "sha256": "c53d253088f19f4350046d42057a583d0af719e4ff80e99a5d08828824a348c6",
+      "byteSize": 2533014,
+      "width": 1536,
+      "height": 2288
+    },
+    {
+      "id": "aurora-cat",
+      "name": "Nova",
+      "version": "1.0.0",
+      "filename": "aurora-cat-spritesheet.webp",
+      "summonGreeting": "Nova is listening…",
+      "kokoroVoiceID": "bf_emma",
+      "preferredSystemVoiceNames": [
+        "Serena",
+        "Ava"
+      ],
+      "license": "Proprietary",
+      "atlasURL": "https://github.com/ibuhs/vehla-pets/releases/download/pets-1.0.0/aurora-cat-spritesheet.webp",
+      "sha256": "a91340a68fde4148eb71f8cc06a6042c3232536d6b37f444c6c8e06126a208dc",
+      "byteSize": 3013712,
+      "width": 1536,
+      "height": 2288
+    },
+    {
+      "id": "sofi",
+      "name": "Sofi",
+      "version": "1.0.0",
+      "filename": "sofi-spritesheet.webp",
+      "summonGreeting": "Sofi is listening…",
+      "kokoroVoiceID": "bf_emma",
+      "preferredSystemVoiceNames": [
+        "Samantha",
+        "Ava"
+      ],
+      "license": "Proprietary",
+      "atlasURL": "https://github.com/ibuhs/vehla-pets/releases/download/pets-1.0.0/sofi-spritesheet.webp",
+      "sha256": "ac7523ac720b21d3b7d8b1f95a1825b22c78b2ae2afb7f0e043acf75d403437f",
+      "byteSize": 2195614,
+      "width": 1536,
+      "height": 2288
+    },
+    {
+      "id": "freddie",
+      "name": "Freddie",
+      "version": "1.0.0",
+      "filename": "freddie-spritesheet.webp",
+      "summonGreeting": "Freddie is listening…",
+      "kokoroVoiceID": "am_liam",
+      "preferredSystemVoiceNames": [
+        "Eddy",
+        "Daniel"
+      ],
+      "license": "Proprietary",
+      "atlasURL": "https://github.com/ibuhs/vehla-pets/releases/download/pets-1.0.0/freddie-spritesheet.webp",
+      "sha256": "88516edd20a23e301fbbb6c5f419f341500e65c726167e42276e3519a231b54d",
+      "byteSize": 2757660,
+      "width": 1536,
+      "height": 2288
+    },
+    {
+      "id": "stuart",
+      "name": "Stuart",
+      "version": "1.0.0",
+      "filename": "stuart-spritesheet.webp",
+      "summonGreeting": "Stuart is listening…",
+      "kokoroVoiceID": "am_liam",
+      "preferredSystemVoiceNames": [
+        "Eddy",
+        "Daniel"
+      ],
+      "license": "Proprietary",
+      "atlasURL": "https://github.com/ibuhs/vehla-pets/releases/download/pets-1.0.0/stuart-spritesheet.webp",
+      "sha256": "a5536eb0e9e460ddfa6b09884304ac74136b9185706a6379d079fd4f0276243c",
+      "byteSize": 3091510,
+      "width": 1536,
+      "height": 2288
+    },
+    {
+      "id": "georgie",
+      "name": "Georgie",
+      "version": "1.0.0",
+      "filename": "georgie-spritesheet.webp",
+      "summonGreeting": "Georgie is listening…",
+      "kokoroVoiceID": "am_liam",
+      "preferredSystemVoiceNames": [
+        "Eddy",
+        "Daniel"
+      ],
+      "license": "Proprietary",
+      "atlasURL": "https://github.com/ibuhs/vehla-pets/releases/download/pets-1.0.0/georgie-spritesheet.webp",
+      "sha256": "24576bf9c49f18cf9ee245786ec1aa9eaa34ab8690c7467e50658557c4baa797",
+      "byteSize": 2923360,
+      "width": 1536,
+      "height": 2288
+    },
+    {
+      "id": "astro",
+      "name": "Astro",
+      "version": "1.0.0",
+      "filename": "astro-spritesheet.webp",
+      "summonGreeting": "Astro is listening…",
+      "kokoroVoiceID": "am_liam",
+      "preferredSystemVoiceNames": [
+        "Eddy",
+        "Daniel"
+      ],
+      "license": "Proprietary",
+      "atlasURL": "https://github.com/ibuhs/vehla-pets/releases/download/pets-1.0.0/astro-spritesheet.webp",
+      "sha256": "d35a3ee0c461ff2dde01e55039f90f64467477b3b870294a0fc543552ca67cc7",
+      "byteSize": 2236078,
+      "width": 1536,
+      "height": 2288
+    },
+    {
+      "id": "fizzie",
+      "name": "Fizzie",
+      "version": "1.0.0",
+      "filename": "fizzie-spritesheet.webp",
+      "summonGreeting": "Fizzie is listening…",
+      "kokoroVoiceID": "bf_emma",
+      "preferredSystemVoiceNames": [
+        "Serena",
+        "Ava"
+      ],
+      "license": "Proprietary",
+      "atlasURL": "https://github.com/ibuhs/vehla-pets/releases/download/pets-1.0.0/fizzie-spritesheet.webp",
+      "sha256": "bcbb31ada9762d6d7d61ffded10668fea0e222c25a82892059251224cc4fa4ba",
+      "byteSize": 2076408,
+      "width": 1536,
+      "height": 2288
+    },
+    {
+      "id": "cyan-bot",
+      "name": "Cyan Bot",
+      "version": "1.0.0",
+      "filename": "cyan-bot-spritesheet.webp",
+      "summonGreeting": "Cyan Bot is online…",
+      "kokoroVoiceID": "am_liam",
+      "preferredSystemVoiceNames": [
+        "Eddy",
+        "Daniel"
+      ],
+      "license": "Proprietary",
+      "atlasURL": "https://github.com/ibuhs/vehla-pets/releases/download/pets-1.0.0/cyan-bot-spritesheet.webp",
+      "sha256": "b9cdf7afbd71bdae3e272968bdc2a83be5fb627f5d6ba0bd73152f0cb8201404",
+      "byteSize": 2577690,
+      "width": 1536,
+      "height": 2288
+    },
+    {
+      "id": "zibby",
+      "name": "Zibby",
+      "version": "1.0.0",
+      "filename": "zibby-alien-spritesheet.webp",
+      "summonGreeting": "Zibby is listening…",
+      "kokoroVoiceID": "am_liam",
+      "preferredSystemVoiceNames": [
+        "Eddy",
+        "Daniel"
+      ],
+      "license": "Proprietary",
+      "atlasURL": "https://github.com/ibuhs/vehla-pets/releases/download/pets-1.0.0/zibby-alien-spritesheet.webp",
+      "sha256": "e9455dc05bc0c77c146ef2b20654722a6a36af2dc72894c85018754832194eeb",
+      "byteSize": 2100670,
+      "width": 1536,
+      "height": 2288
+    },
+    {
+      "id": "mango",
+      "name": "Mango",
+      "version": "1.0.0",
+      "filename": "mango-macaw-spritesheet.webp",
+      "summonGreeting": "Mango is listening…",
+      "kokoroVoiceID": "bf_emma",
+      "preferredSystemVoiceNames": [
+        "Serena",
+        "Ava"
+      ],
+      "license": "Proprietary",
+      "atlasURL": "https://github.com/ibuhs/vehla-pets/releases/download/pets-1.0.0/mango-macaw-spritesheet.webp",
+      "sha256": "d7a8441f717fe2f25a1df7e86bf7e72ced34cee2567059b5ee3ac0a593369c67",
+      "byteSize": 2728842,
+      "width": 1536,
+      "height": 2288
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "schemaVersion": 1,
+  "pets": [
+    {
+      "id": "pocket-chihuahua",
+      "name": "ChiChi",
+      "version": "1.0.0",
+      "filename": "pocket-chihuahua-spritesheet.webp",
+      "summonGreeting": "ChiChi is listening…",
+      "kokoroVoiceID": "af_heart",
+      "preferredSystemVoiceNames": ["Ava", "Samantha"],
+      "license": "Proprietary"
+    },
+    {
+      "id": "command-collie",
+      "name": "Scout",
+      "version": "1.0.0",
+      "filename": "command-collie-spritesheet.webp",
+      "summonGreeting": "Scout is ready…",
+      "kokoroVoiceID": "am_liam",
+      "preferredSystemVoiceNames": ["Daniel", "Eddy"],
+      "license": "Proprietary"
+    },
+    {
+      "id": "aurora-cat",
+      "name": "Nova",
+      "version": "1.0.0",
+      "filename": "aurora-cat-spritesheet.webp",
+      "summonGreeting": "Nova is listening…",
+      "kokoroVoiceID": "bf_emma",
+      "preferredSystemVoiceNames": ["Serena", "Ava"],
+      "license": "Proprietary"
+    },
+    {
+      "id": "sofi",
+      "name": "Sofi",
+      "version": "1.0.0",
+      "filename": "sofi-spritesheet.webp",
+      "summonGreeting": "Sofi is listening…",
+      "kokoroVoiceID": "bf_emma",
+      "preferredSystemVoiceNames": ["Samantha", "Ava"],
+      "license": "Proprietary"
+    },
+    {
+      "id": "freddie",
+      "name": "Freddie",
+      "version": "1.0.0",
+      "filename": "freddie-spritesheet.webp",
+      "summonGreeting": "Freddie is listening…",
+      "kokoroVoiceID": "am_liam",
+      "preferredSystemVoiceNames": ["Eddy", "Daniel"],
+      "license": "Proprietary"
+    },
+    {
+      "id": "stuart",
+      "name": "Stuart",
+      "version": "1.0.0",
+      "filename": "stuart-spritesheet.webp",
+      "summonGreeting": "Stuart is listening…",
+      "kokoroVoiceID": "am_liam",
+      "preferredSystemVoiceNames": ["Eddy", "Daniel"],
+      "license": "Proprietary"
+    },
+    {
+      "id": "georgie",
+      "name": "Georgie",
+      "version": "1.0.0",
+      "filename": "georgie-spritesheet.webp",
+      "summonGreeting": "Georgie is listening…",
+      "kokoroVoiceID": "am_liam",
+      "preferredSystemVoiceNames": ["Eddy", "Daniel"],
+      "license": "Proprietary"
+    },
+    {
+      "id": "astro",
+      "name": "Astro",
+      "version": "1.0.0",
+      "filename": "astro-spritesheet.webp",
+      "summonGreeting": "Astro is listening…",
+      "kokoroVoiceID": "am_liam",
+      "preferredSystemVoiceNames": ["Eddy", "Daniel"],
+      "license": "Proprietary"
+    },
+    {
+      "id": "fizzie",
+      "name": "Fizzie",
+      "version": "1.0.0",
+      "filename": "fizzie-spritesheet.webp",
+      "summonGreeting": "Fizzie is listening…",
+      "kokoroVoiceID": "bf_emma",
+      "preferredSystemVoiceNames": ["Serena", "Ava"],
+      "license": "Proprietary"
+    },
+    {
+      "id": "cyan-bot",
+      "name": "Cyan Bot",
+      "version": "1.0.0",
+      "filename": "cyan-bot-spritesheet.webp",
+      "summonGreeting": "Cyan Bot is online…",
+      "kokoroVoiceID": "am_liam",
+      "preferredSystemVoiceNames": ["Eddy", "Daniel"],
+      "license": "Proprietary"
+    },
+    {
+      "id": "zibby",
+      "name": "Zibby",
+      "version": "1.0.0",
+      "filename": "zibby-alien-spritesheet.webp",
+      "summonGreeting": "Zibby is listening…",
+      "kokoroVoiceID": "am_liam",
+      "preferredSystemVoiceNames": ["Eddy", "Daniel"],
+      "license": "Proprietary"
+    },
+    {
+      "id": "mango",
+      "name": "Mango",
+      "version": "1.0.0",
+      "filename": "mango-macaw-spritesheet.webp",
+      "summonGreeting": "Mango is listening…",
+      "kokoroVoiceID": "bf_emma",
+      "preferredSystemVoiceNames": ["Serena", "Ava"],
+      "license": "Proprietary"
+    }
+  ]
+}
