@@ -150,6 +150,16 @@
       "kokoroVoiceID": "bf_emma",
       "preferredSystemVoiceNames": ["Samantha", "Ava"],
       "license": "Proprietary"
+    },
+    {
+      "id": "moobeam-ufo",
+      "name": "Moobeam UFO",
+      "version": "1.0.0",
+      "filename": "moobeam-mini-ufo-spritesheet.webp",
+      "summonGreeting": "Moobeam is listening…",
+      "kokoroVoiceID": "af_heart",
+      "preferredSystemVoiceNames": ["Ava", "Samantha"],
+      "license": "Proprietary"
     }
   ]
 }
