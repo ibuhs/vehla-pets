@@ -16,6 +16,8 @@ SOURCE = ROOT / "pets.json"
 CATALOG = ROOT / "catalog.json"
 SIGNATURE = ROOT / "catalog.sig.json"
 SIGNING_SCRIPT = ROOT / "scripts" / "catalog-signing.swift"
+PREVIEW_SCRIPT = ROOT / "scripts" / "build-preview.swift"
+PREVIEWS = ROOT / "previews"
 REPOSITORY = "ibuhs/vehla-pets"
 PUBLISHER_ID = "com.vehla.publisher"
 PUBLISHER_NAME = "Vehla"
@@ -23,6 +25,7 @@ KEY_ID = "release-2026-07"
 EXPECTED_WIDTH = 1536
 EXPECTED_HEIGHT = 2288
 MAXIMUM_ATLAS_SIZE = 20 * 1024 * 1024
+MAXIMUM_PREVIEW_SIZE = 512 * 1024
 
 
 def arguments() -> argparse.Namespace:
@@ -92,8 +95,19 @@ def main() -> None:
                 f"{EXPECTED_WIDTH}×{EXPECTED_HEIGHT}."
             )
 
+        preview_filename = f"{pet_id}-preview.png"
+        preview = PREVIEWS / preview_filename
+        subprocess.run(
+            ["swift", str(PREVIEW_SCRIPT), str(atlas), str(preview)],
+            check=True,
+        )
+        preview_data = preview.read_bytes()
+        if len(preview_data) > MAXIMUM_PREVIEW_SIZE:
+            raise SystemExit(f"{preview_filename} exceeds the preview size limit.")
+
         encoded_tag = urllib.parse.quote(options.tag, safe="")
         encoded_filename = urllib.parse.quote(filename, safe="")
+        encoded_preview_filename = urllib.parse.quote(preview_filename, safe="")
         catalog_pets.append(
             {
                 **pet,
@@ -101,6 +115,12 @@ def main() -> None:
                     f"https://github.com/{REPOSITORY}/releases/download/"
                     f"{encoded_tag}/{encoded_filename}"
                 ),
+                "previewURL": (
+                    f"https://github.com/{REPOSITORY}/releases/download/"
+                    f"{encoded_tag}/{encoded_preview_filename}"
+                ),
+                "previewSha256": hashlib.sha256(preview_data).hexdigest(),
+                "previewByteSize": len(preview_data),
                 "sha256": hashlib.sha256(data).hexdigest(),
                 "byteSize": len(data),
                 "width": width,
