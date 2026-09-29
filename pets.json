@@ -130,6 +130,16 @@
       "kokoroVoiceID": "bf_emma",
       "preferredSystemVoiceNames": ["Samantha", "Ava"],
       "license": "Proprietary"
+    },
+    {
+      "id": "rexy-trex",
+      "name": "Rexy",
+      "version": "1.0.0",
+      "filename": "rexy-baby-trex-spritesheet.webp",
+      "summonGreeting": "Rexy is listening…",
+      "kokoroVoiceID": "am_liam",
+      "preferredSystemVoiceNames": ["Eddy", "Daniel"],
+      "license": "Proprietary"
     }
   ]
 }
