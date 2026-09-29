@@ -120,6 +120,16 @@
       "kokoroVoiceID": "bf_emma",
       "preferredSystemVoiceNames": ["Serena", "Ava"],
       "license": "Proprietary"
+    },
+    {
+      "id": "mochi-cat",
+      "name": "Mochi",
+      "version": "1.0.0",
+      "filename": "mochi-cat-spritesheet.webp",
+      "summonGreeting": "Mochi is listening…",
+      "kokoroVoiceID": "bf_emma",
+      "preferredSystemVoiceNames": ["Samantha", "Ava"],
+      "license": "Proprietary"
     }
   ]
 }
