@@ -170,6 +170,15 @@
       "kokoroVoiceID": "af_heart",
       "preferredSystemVoiceNames": ["Ava", "Samantha"],
       "license": "Proprietary"
+    },{
+      "id": "pixel-bee",
+      "name": "Pixel",
+      "version": "1.0.0",
+      "filename": "pixel-bee-spritesheet.webp",
+      "summonGreeting": "Pixel is listening…",
+      "kokoroVoiceID": "bf_emma",
+      "preferredSystemVoiceNames": ["Serena", "Ava"],
+      "license": "Proprietary"
     }
   ]
 }
