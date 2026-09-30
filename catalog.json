@@ -303,7 +303,7 @@
     {
       "id": "crabby",
       "name": "Crabby",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "filename": "crabby-spritesheet.webp",
       "summonGreeting": "Crabby is listening…",
       "kokoroVoiceID": "bf_emma",
@@ -316,8 +316,8 @@
       "previewURL": "https://github.com/ibuhs/vehla-pets/releases/download/pets-1.1.3/crabby-preview.png",
       "previewSha256": "abe8ed0e7d55968127224ab5630ecb6138a9b71da0f8b4114fc107e3282f833c",
       "previewByteSize": 49657,
-      "sha256": "7162606fee453737a678da95036dc8032abcfeca549483b4f9fb852ee894d69c",
-      "byteSize": 2458882,
+      "sha256": "8a276514748675ae629df5504aeeb515a685eada3a89c82f803603128bef45db",
+      "byteSize": 2529974,
       "width": 1536,
       "height": 2288
     },

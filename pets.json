@@ -144,7 +144,7 @@
     {
       "id": "crabby",
       "name": "Crabby",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "filename": "crabby-spritesheet.webp",
       "summonGreeting": "Crabby is listening…",
       "kokoroVoiceID": "bf_emma",
