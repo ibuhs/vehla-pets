@@ -170,7 +170,7 @@
       "kokoroVoiceID": "af_heart",
       "preferredSystemVoiceNames": ["Ava", "Samantha"],
       "license": "Proprietary"
-    },{
+    },    {
       "id": "pixel-bee",
       "name": "Pixel",
       "version": "1.0.0",
@@ -178,6 +178,26 @@
       "summonGreeting": "Pixel is listening…",
       "kokoroVoiceID": "bf_emma",
       "preferredSystemVoiceNames": ["Serena", "Ava"],
+      "license": "Proprietary"
+    },
+    {
+      "id": "ember-flame",
+      "name": "Ember",
+      "version": "1.0.0",
+      "filename": "ember-flame-spritesheet.webp",
+      "summonGreeting": "Ember is listening…",
+      "kokoroVoiceID": "am_liam",
+      "preferredSystemVoiceNames": ["Eddy", "Daniel"],
+      "license": "Proprietary"
+    },
+    {
+      "id": "pixi-cat",
+      "name": "Pixi",
+      "version": "1.0.0",
+      "filename": "pixi-cat-spritesheet.webp",
+      "summonGreeting": "Pixi is listening…",
+      "kokoroVoiceID": "bf_emma",
+      "preferredSystemVoiceNames": ["Samantha", "Ava"],
       "license": "Proprietary"
     }
   ]
