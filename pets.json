@@ -160,6 +160,16 @@
       "kokoroVoiceID": "af_heart",
       "preferredSystemVoiceNames": ["Ava", "Samantha"],
       "license": "Proprietary"
+    },
+    {
+      "id": "nimbus-ghost",
+      "name": "Nimbus",
+      "version": "1.0.0",
+      "filename": "nimbus-ghost-spritesheet.webp",
+      "summonGreeting": "Nimbus is listening…",
+      "kokoroVoiceID": "af_heart",
+      "preferredSystemVoiceNames": ["Ava", "Samantha"],
+      "license": "Proprietary"
     }
   ]
 }
