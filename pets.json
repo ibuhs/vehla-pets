@@ -199,6 +199,16 @@
       "kokoroVoiceID": "bf_emma",
       "preferredSystemVoiceNames": ["Samantha", "Ava"],
       "license": "Proprietary"
+    },
+    {
+      "id": "laddie",
+      "name": "Laddie",
+      "version": "1.0.0",
+      "filename": "laddie-spritesheet.webp",
+      "summonGreeting": "Laddie is listening…",
+      "kokoroVoiceID": "am_liam",
+      "preferredSystemVoiceNames": ["Eddy", "Daniel"],
+      "license": "Proprietary"
     }
   ]
 }
