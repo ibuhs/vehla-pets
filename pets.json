@@ -209,6 +209,16 @@
       "kokoroVoiceID": "am_liam",
       "preferredSystemVoiceNames": ["Eddy", "Daniel"],
       "license": "Proprietary"
+    },
+    {
+      "id": "sewerking",
+      "name": "Sewerking",
+      "version": "1.0.0",
+      "filename": "sewerking-spritesheet.webp",
+      "summonGreeting": "Sewerking is listening…",
+      "kokoroVoiceID": "am_liam",
+      "preferredSystemVoiceNames": ["Eddy", "Daniel"],
+      "license": "Proprietary"
     }
   ]
 }
