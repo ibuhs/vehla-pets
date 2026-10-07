@@ -213,7 +213,7 @@
     {
       "id": "sewerking",
       "name": "Sewerking",
-      "version": "1.0.0",
+      "version": "2.0.0",
       "filename": "sewerking-spritesheet.webp",
       "summonGreeting": "Sewerking is listening…",
       "kokoroVoiceID": "am_liam",
